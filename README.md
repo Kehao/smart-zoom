@@ -1,6 +1,10 @@
 # smart-zoom
 ### Usage
 
+``` console
+npm install zepto-smart-zoom --save
+```
+
 ``` html
 <div class="zoom">
     <img class='source-img first' src="../images/test.jpeg" alt="">
