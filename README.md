@@ -14,7 +14,7 @@ npm install zepto-smart-zoom --save
 
 ``` javascript
 require('zepto');
-require('smart-zoom');
+require('zepto-smart-zoom');
 
 $('.zoom').smartZoom(/*{element: '.source-img'}*/);
 
