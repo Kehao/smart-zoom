@@ -1,0 +1,19 @@
+{
+  "name": "smart-zoom",
+  "version": "1.0.0",
+  "description": "A smart zoom of zepto",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "zoom",
+    "zepto",
+    "move"
+  ],
+  "author": "kehao.qiu",
+  "license": "MIT",
+  "dependencies": {
+    "zepto": "^1.0.1"
+  }
+}
