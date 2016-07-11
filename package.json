@@ -1,6 +1,6 @@
 {
   "name": "zepto-smart-zoom",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A smart zoom of zepto",
   "main": "./zepto-smart-zoom.js",
   "scripts": {
