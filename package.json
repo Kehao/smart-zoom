@@ -2,7 +2,7 @@
   "name": "smart-zoom",
   "version": "1.0.0",
   "description": "A smart zoom of zepto",
-  "main": "index.js",
+  "main": "./zepto-smart-zoom.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,6 +11,7 @@
     "zepto",
     "move"
   ],
+  "homepage": "https://github.com/Kehao/smart-zoom"
   "author": "kehao.qiu",
   "license": "MIT",
   "dependencies": {
