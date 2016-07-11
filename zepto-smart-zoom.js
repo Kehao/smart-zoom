@@ -132,7 +132,7 @@
         if (this.isMoveMode) {
             this.move(touches[0]);
         } else {
-            if (!touches.length) throw new Error('Scale Mode: Cant get touch points !');
+            if (touches.length < 2) throw new Error('Scale Mode: Cant get touch points !');
             this.scale(touches);
         }
     }
