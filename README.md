@@ -10,7 +10,7 @@
 
 ``` javascript
 require('zepto');
-require('smart-zoom')
+require('smart-zoom');
 
 $('.zoom').smartZoom(/*{element: '.source-img'}*/);
 
