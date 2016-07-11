@@ -1,6 +1,6 @@
 {
   "name": "zepto-smart-zoom",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A smart zoom of zepto",
   "main": "./zepto-smart-zoom.js",
   "scripts": {
@@ -11,10 +11,13 @@
     "zepto",
     "move"
   ],
-  "homepage": "https://github.com/Kehao/smart-zoom"
+  "homepage": "https://github.com/Kehao/smart-zoom",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Kehao/smart-zoom.git"
+  },
   "author": "kehao.qiu",
   "license": "MIT",
   "dependencies": {
-    "zepto": "^1.0.1"
   }
 }

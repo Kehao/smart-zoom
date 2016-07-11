@@ -1,20 +1,20 @@
 ;(function (factory) {
     'use strict';
-    if (typeof define === 'function' && define.amd) {
-        // Register as an anonymous AMD module:
-        define(['zepto'], factory);
+    // if (typeof define === 'function' && define.amd) {
+    //     // Register as an anonymous AMD module:
+    //     define(['zepto'], factory);
 
-    } else if (typeof exports === 'object') {
-        // Node/CommonJS:
-        factory(
-            require('zepto')
-        );
-    } else {
-        // Browser globals:
+    // } else if (typeof exports === 'object') {
+    //     // Node/CommonJS:
+    //     factory(
+    //         require('zepto')
+    //     );
+    // } else {
+    //     // Browser globals:
         factory(
             window.$
         );
-    }
+    // }
 }(function ($) {
    'use strict';
 
